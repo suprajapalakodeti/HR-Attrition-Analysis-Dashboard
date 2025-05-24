@@ -1,4 +1,5 @@
 📊 HR Attrition Analysis Dashboard
+
 This project is a complete end-to-end data analysis of employee attrition using Excel, SQL, and Power BI. It explores the key factors that influence employee attrition and presents meaningful insights through an interactive dashboard.
 
 🔍 Project Objective
